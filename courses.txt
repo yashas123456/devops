@@ -1,0 +1,2 @@
+devops course
+ansible is configuration management tool
